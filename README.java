@@ -1,5 +1,4 @@
-# hello-world
-package ejemplos;
+
 import java.util.Scanner;
 import javax.swing.JOptionPane;
 
